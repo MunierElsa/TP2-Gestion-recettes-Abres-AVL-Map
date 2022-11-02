@@ -1,0 +1,2 @@
+recette burger pain_burger 1 tranche_fromage 1 steak_hache 1 ;
+recette boulette steak_hache 2 ognon 1 ;

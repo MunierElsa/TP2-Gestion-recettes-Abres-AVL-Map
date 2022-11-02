@@ -1,0 +1,16 @@
+recette burger pain_burger 1 tranche_fromage 8 steak_hache 1 steak_hache 4 ognon 2;
+recette recette3 steak_hache 2 tranche_fromage 2 ;
+recette boulette steak_hache 2 ognon 1 ;
+recette pain pain_burger 8;
+ajout steak_hache 10 2021-12-01
+ajout tranche_fromage 5 2021-11-10
+ajout ognon 5 2021-12-01
+ajout pain_burger 10 2021-11-10
+ajout ognon 5 2021-12-25
+ajout tranche_fromage 10 2021-11-10
+affichage
+recommendation
+retrait tranche_fromage 13
+retrait steak_hache 8
+affichage
+recommendation
